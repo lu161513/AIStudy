@@ -1,0 +1,11 @@
+# 本次使用 mnist 手写体库进行实验
+- [点我下载数据集](http://deeplearning.net/data/mnist/mnist.pkl.gz)
+- 语言:python
+- 包含算法:
+    - NB
+    - KNN
+    - LR
+    - RF
+    - DT
+    - SVM
+    - GBDT
